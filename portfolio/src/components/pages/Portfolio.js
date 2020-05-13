@@ -8,7 +8,7 @@ function Portfolio() {
         <section>
             <div className="row">
                 <div className="col-sm-12">
-                    <h1 id="welcome">PROJECTS</h1>
+                    <h1 id="projects">PROJECTS</h1>
                 </div>
             </div>
             <div className="card-columns">

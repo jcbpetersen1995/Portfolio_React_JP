@@ -3,6 +3,12 @@
     font-family: 'Monofett', cursive;
     font-size: 107px;
 }
+#projects {
+    padding-top: 38px;
+    font-family: 'Monofett', cursive;
+    font-size: 100px;
+    margin-bottom: 50px;
+}
 #intro,#aboutMe,#career,#contact {
     padding-top: 35px;
     font-family: 'Monofett', cursive;
@@ -32,6 +38,11 @@ hr {
     }
     #intro {
         padding-top: 6px;
+    }
+    #projects {
+        padding-top: 38px;
+        font-family: 'Monofett', cursive;
+        font-size: 70px;
     }
 
   }
