@@ -1,0 +1,18 @@
+body {
+    background-image: url('../images/waves.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Media Query Mobile Devices */
+@media screen and (max-width: 480px) {
+
+    body {
+        background-image: url('../images/waves.jpeg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+    }
+
+  }

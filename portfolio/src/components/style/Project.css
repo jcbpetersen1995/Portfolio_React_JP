@@ -1,0 +1,15 @@
+.btn {
+    margin-right: 5px;
+    background-color: yellowgreen;
+    color: white;
+}
+.dropdown {
+    margin-top: 8px;
+}
+.card {
+    background-color: rgba(207, 204, 204, 0.541);
+}
+h2 {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bolder;
+}
